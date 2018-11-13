@@ -1,0 +1,12 @@
+Nov 13, 2018 3:13:37 PM devopsadda.subprocess.utils.CallingSubProcessUtils initSemaphore
+INFO: Initialized Semaphore for binary test-Echo4318632040995620787.sh 
+Nov 13, 2018 3:13:37 PM devopsadda.subprocess.utils.CallingSubProcessUtils setUp
+INFO: Calling filesetup to move Executables to worker.
+Nov 13, 2018 3:13:37 PM devopsadda.subprocess.utils.FileUtils copyFileFromGCSToWorker
+INFO: Moving File /tmp/test-Echo4318632040995620787.sh to /tmp/test-Echoo4305849454251693814/test-Echo4318632040995620787.sh 
+Nov 13, 2018 3:13:38 PM devopsadda.subprocess.utils.CallingSubProcessUtils initSemaphore
+INFO: Initialized Semaphore for binary test-EchoAgain8456882244956244145.sh 
+Nov 13, 2018 3:13:38 PM devopsadda.subprocess.utils.CallingSubProcessUtils setUp
+INFO: Calling filesetup to move Executables to worker.
+Nov 13, 2018 3:13:38 PM devopsadda.subprocess.utils.FileUtils copyFileFromGCSToWorker
+INFO: Moving File /tmp/test-EchoAgain8456882244956244145.sh to /tmp/test-Echoo4305849454251693814/test-EchoAgain8456882244956244145.sh 

@@ -1,0 +1,4 @@
+Nov 13, 2018 3:13:17 PM org.apache.beam.sdk.transforms.DoFnTester of
+WARNING: Your tests use DoFnTester, which may not exercise DoFns correctly. Please use TestPipeline instead.
+Nov 13, 2018 3:13:19 PM org.apache.beam.sdk.metrics.MetricsEnvironment getCurrentContainer
+WARNING: Reporting metrics are not supported in the current execution environment.

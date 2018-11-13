@@ -1,0 +1,20 @@
+Nov 13, 2018 3:13:29 PM devopsadda.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on THIS IS A PARSE ERROR,2015-11-19 09:53:53.444, 2
+Nov 13, 2018 3:13:29 PM devopsadda.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on user13_BisqueBilby,BisqueBilby,xxx,1447955630000,2015-11-19 09:53:53.444, For input string: "xxx"
+Nov 13, 2018 3:13:29 PM devopsadda.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on user6_AliceBlueDingo,AliceBlueDingo,4,xxxxxxx,2015-11-19 09:53:53.444, For input string: "xxxxxxx"
+Nov 13, 2018 3:13:29 PM devopsadda.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on user6_AliceBlueDingo,AliceBlueDingo,4,xxxxxxx,2015-11-19 09:53:53.444, For input string: "xxxxxxx"
+Nov 13, 2018 3:13:29 PM devopsadda.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on THIS IS A PARSE ERROR,2015-11-19 09:53:53.444, 2
+Nov 13, 2018 3:13:29 PM devopsadda.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on user6_AliceBlueDingo,AliceBlueDingo,4,xxxxxxx,2015-11-19 09:53:53.444, For input string: "xxxxxxx"
+Nov 13, 2018 3:13:29 PM devopsadda.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on THIS IS A PARSE ERROR,2015-11-19 09:53:53.444, 2
+Nov 13, 2018 3:13:29 PM org.apache.beam.sdk.transforms.DoFnTester of
+WARNING: Your tests use DoFnTester, which may not exercise DoFns correctly. Please use TestPipeline instead.
+Nov 13, 2018 3:13:29 PM devopsadda.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on user6_AliceBlueDingo,AliceBlueDingo,4,xxxxxxx,2015-11-19 09:53:53.444, For input string: "xxxxxxx"
+Nov 13, 2018 3:13:29 PM devopsadda.complete.game.UserScore$ParseEventFn processElement
+INFO: Parse error on THIS IS A PARSE ERROR,2015-11-19 09:53:53.444, 2

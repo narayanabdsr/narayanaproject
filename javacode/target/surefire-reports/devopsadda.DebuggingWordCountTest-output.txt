@@ -1,0 +1,4 @@
+Nov 13, 2018 3:13:35 PM org.apache.beam.sdk.io.FileBasedSource getEstimatedSizeBytes
+INFO: Filepattern /tmp/junit8180250538495710268/junit7908520911827894857.tmp matched 1 files with total size 54
+Nov 13, 2018 3:13:35 PM org.apache.beam.sdk.io.FileBasedSource split
+INFO: Splitting filepattern /tmp/junit8180250538495710268/junit7908520911827894857.tmp into bundles of size 18 took 1 ms and produced 1 files and 3 bundles
